@@ -1,0 +1,39 @@
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\bin\Debug\FtpThing.exe
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\bin\Debug\FtpThing.pdb
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\bin\Debug\FtpThing.xml
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\obj\Debug\FtpThing.Form1.resources
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\obj\Debug\FtpThing.Resources.resources
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\obj\Debug\FtpThing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\obj\Debug\FtpThing.exe
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\obj\Debug\FtpThing.xml
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\FtpThing\obj\Debug\FtpThing.pdb
+c:\andy\html\code\vb\FtpThing\FtpThing\obj\Debug\FtpThing.exe
+c:\andy\html\code\vb\FtpThing\FtpThing\obj\Debug\FtpThing.xml
+c:\andy\html\code\vb\FtpThing\FtpThing\obj\Debug\FtpThing.pdb
+c:\andy\html\code\vb\FtpThing\FtpThing\bin\Debug\FtpThing.exe
+c:\andy\html\code\vb\FtpThing\FtpThing\bin\Debug\FtpThing.pdb
+c:\andy\html\code\vb\FtpThing\FtpThing\bin\Debug\FtpThing.xml
+c:\andy\html\code\vb\FtpThing\FtpThing\obj\Debug\ResolveAssemblyReference.cache
+c:\andy\html\code\vb\FtpThing\FtpThing\obj\Debug\FtpThing.Form1.resources
+c:\andy\html\code\vb\FtpThing\FtpThing\obj\Debug\FtpThing.Resources.resources
+c:\andy\html\code\vb\FtpThing\FtpThing\obj\Debug\FtpThing.vbproj.GenerateResource.Cache
+D:\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.exe
+D:\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.xml
+D:\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.pdb
+D:\jarod\vbnet\FtpThing\FtpThing\bin\Debug\FtpThing.exe
+D:\jarod\vbnet\FtpThing\FtpThing\bin\Debug\FtpThing.pdb
+D:\jarod\vbnet\FtpThing\FtpThing\bin\Debug\FtpThing.xml
+D:\jarod\vbnet\FtpThing\FtpThing\obj\Debug\ResolveAssemblyReference.cache
+D:\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.Form1.resources
+D:\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.Resources.resources
+D:\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.vbproj.GenerateResource.Cache
+C:\Users\andrew\aglaope\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.exe
+C:\Users\andrew\aglaope\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.xml
+C:\Users\andrew\aglaope\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.pdb
+C:\Users\andrew\aglaope\jarod\vbnet\FtpThing\FtpThing\bin\Debug\FtpThing.exe
+C:\Users\andrew\aglaope\jarod\vbnet\FtpThing\FtpThing\bin\Debug\FtpThing.pdb
+C:\Users\andrew\aglaope\jarod\vbnet\FtpThing\FtpThing\bin\Debug\FtpThing.xml
+C:\Users\andrew\aglaope\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.Form1.resources
+C:\Users\andrew\aglaope\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.Resources.resources
+C:\Users\andrew\aglaope\jarod\vbnet\FtpThing\FtpThing\obj\Debug\FtpThing.vbproj.GenerateResource.Cache
